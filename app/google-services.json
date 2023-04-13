@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332115394998",
+    "project_id": "fir-db-app-one-dc590",
+    "storage_bucket": "fir-db-app-one-dc590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332115394998:android:da644663d82e13cfa78117",
+        "android_client_info": {
+          "package_name": "com.muthoknee.morningfirebasedbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332115394998-9b0oj7tp816rggobgv4878dunnkhl6da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUW1Z3Ul0s7UQnHlUwZQT-rndHdP3lJTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332115394998-9b0oj7tp816rggobgv4878dunnkhl6da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
